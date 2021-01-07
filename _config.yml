@@ -98,11 +98,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: landscape-plus
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: git@github.com:Ryan19929/blog.git
+#  repo: git@github.com:Ryan19929/blog.git
   branch: gh-pages
